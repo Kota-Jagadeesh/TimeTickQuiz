@@ -1,6 +1,6 @@
-# 📚 Resources – TimeTickQuiz
+# 📚 Resources - TimeTickQuiz
 
-This document lists all references, tools, and documentation used while building the **TimeTickQuiz** project.
+This document lists all references, tools, and documentation used to build the **TimeTickQuiz** project.
 
 ---
 
@@ -44,10 +44,10 @@ This document lists all references, tools, and documentation used while building
 
 ## 🎥 YouTube / Videos
 
-- [Python Threading Tutorial](https://www.youtube.com/watch?v=IEEhzQoKtQU) – Corey Schafer  
+- [Python Threading Tutorial](https://www.youtube.com/watch?v=IEEhzQoKtQU) - Corey Schafer  
   Helpful in understanding how to handle timers and input using threads.
 
-- [Python Requests Crash Course](https://www.youtube.com/watch?v=tb8gHvYlCFs) – Corey Schafer   
+- [Python Requests Crash Course](https://www.youtube.com/watch?v=tb8gHvYlCFs) - Corey Schafer   
   How to work with APIs using `requests`.
 
 ---
@@ -75,7 +75,7 @@ This document lists all references, tools, and documentation used while building
 ---
 
 ---
-
+```bash
 🚀 Good luck, coder! May your answers be swift and your timers never timeout! ⏱️✨
 
-
+```
