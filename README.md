@@ -85,8 +85,7 @@ python3 time_tick_quiz.py
 - 🎨 Any creative enhancements or bonus features you added
 ```
 ---
-Need resources? Check out the [RESOURCES.md](https://github.com/Kota-Jagadeesh/TimeTickQuiz/blob/main/RESOURCES.md) file for more!
----
+
 ### Get ready, agent. Time is ticking. 💥
 ---
 Can you beat the clock and build the ultimate knowledge weapon?
